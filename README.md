@@ -1,2 +1,2 @@
 # The-eagle-and-the-hen
-This is my first simple and easy project.
+This is my first Game project.
